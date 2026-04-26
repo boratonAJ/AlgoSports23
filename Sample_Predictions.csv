@@ -1,0 +1,76 @@
+GameID,Date,Team1_Conf,Team1_ID,Team1,Team2_Conf,Team2_ID,Team2,Team1_WinMargin
+1941,7/4/2025,Purple,68,Idaho,Yellow,119,Houston,25
+1942,7/4/2025,White,105,Helena,Yellow,120,Iowa,-20
+1943,7/4/2025,Red,82,Jackson,Purple,67,Concord,15
+1944,7/4/2025,White,108,Montpelier,Yellow,129,West Virginia,-10
+1945,7/4/2025,Yellow,121,Lansing,White,113,South Dakota,5
+1946,7/4/2025,Crimson,21,Lincoln,Yellow,118,Florida,-5
+1947,7/4/2025,Yellow,117,Columbia,Crimson,23,Nashville,25
+1948,7/4/2025,Orange,63,New Jersey,Yellow,126,Pierre,-11
+1949,7/4/2025,Purple,77,Wilmington,Orange,58,Honolulu,24
+1950,7/4/2025,Crimson,22,Michigan,Green,49,Natchez,31
+1951,7/4/2025,Orange,64,Seattle,White,104,Connecticut,-9
+1952,7/4/2025,Green,51,San Diego,Purple,73,Providence,40
+1953,7/4/2025,Crimson,18,Delaware,Purple,69,Los Angeles,20
+1954,7/4/2025,Red,86,Olympia,Green,44,Bismarck,30
+1955,7/4/2025,Orange,62,New Hampshire,Blue,3,Charlotte,21
+1956,7/4/2025,Green,50,Nebraska,Red,87,Philadelphia,12
+1957,7/4/2025,Gold,38,North Carolina,Red,78,Annapolis,2
+1958,7/4/2025,Violet,99,Topeka,Green,48,Fort Worth,9
+1959,7/4/2025,Blue,4,Colorado,Yellow,124,Missouri,13
+1960,7/4/2025,Blue,1,Austin,Gold,29,Arizona,17
+1961,7/4/2025,Green,46,Boston,Blue,13,Texas,-23
+1962,7/4/2025,Green,47,Chicago,Red,85,New Hope,-14
+1963,7/4/2025,Crimson,20,Hartford,Blue,12,Tampa,-3
+1964,7/4/2025,Gold,32,Columbus,Red,89,Sacramento,-12
+1965,7/4/2025,Red,79,Des Moines,Blue,9,NYC,-15
+1966,7/4/2025,Gold,35,Madison,Violet,95,Las Vegas,32
+1967,7/4/2025,Purple,76,Santa Fe,White,110,Raleigh,-25
+1968,7/4/2025,Violet,102,Alaska,Blue,14,Trenton,10
+1969,7/4/2025,Gold,36,Massachusetts,Red,84,Mississippi,40
+1970,7/4/2025,Violet,98,San Francisco,Blue,6,Juneau,-2
+1971,7/4/2025,Crimson,19,Georgia,Green,42,Virginia,3
+1972,7/4/2025,Blue,7,Key Largo,Gold,40,Pennsylvania,-19
+1973,7/4/2025,Gold,37,Minnesota,Red,88,Port St. Lucie,-17
+1974,7/4/2025,Violet,100,Vermont,Gold,31,Augusta,24
+1975,7/4/2025,Green,45,Boise City,Violet,94,Kentucky,25
+1976,7/4/2025,Violet,92,Illinois,Crimson,26,Phoenix,40
+1977,7/4/2025,Violet,96,Nantucket,Green,54,Boise,-29
+1978,7/4/2025,Blue,2,Baton Rouge,Violet,90,Big Sur,-25
+1979,7/4/2025,Gold,34,Jacksonville,Crimson,16,Cape Coral,16
+1980,7/4/2025,Purple,74,Salt Lake City,Gold,30,Atlanta,28
+1981,7/4/2025,Green,52,Utah,Gold,39,Oklahoma,27
+1982,7/4/2025,Orange,55,Carson City,Blue,10,Ohio,-1
+1983,7/4/2025,Yellow,116,California,Crimson,24,New York,-22
+1984,7/4/2025,Violet,101,Washington,Orange,59,Louisiana,-26
+1985,7/4/2025,Orange,60,Montgomery,Crimson,17,Dallas,-6
+1986,7/4/2025,White,107,Kansas,Violet,93,Indiana,-22
+1987,7/4/2025,Purple,72,North Dakota,Yellow,122,Little Rock,-5
+1988,7/4/2025,Yellow,125,Montana,Crimson,25,Oregon,32
+1989,7/4/2025,Green,53,Wyoming,Purple,75,San Jose,-15
+1990,7/4/2025,Bronze,131,Belgrade,Platinum,151,Shenzhen,-26
+1991,7/4/2025,Platinum,143,Beijing,Platinum,149,Seoul,-25
+1992,7/4/2025,Bronze,139,Prague,Platinum,153,Tokyo,-21
+1993,7/4/2025,Silver,162,Portugal,Bronze,138,Paris,-6
+1994,7/4/2025,Bronze,133,Florence,Silver,160,Netherlands,28
+1995,7/4/2025,Bronze,132,Berlin,Red,80,Frankfort,33
+1996,7/4/2025,Platinum,148,Osaka,Silver,156,Germany,8
+1997,7/4/2025,Platinum,144,Hong Kong,Bronze,134,Liverpool,-8
+1998,7/4/2025,Bronze,136,Madrid,Platinum,152,Singapore,-8
+1999,7/4/2025,Bronze,137,Milan,Platinum,145,Istanbul,1
+2000,7/4/2025,Bronze,130,Barcelona,Violet,91,Hawaii,9
+2001,7/4/2025,Platinum,146,Manila,Red,83,Jefferson City,-7
+2002,7/4/2025,Silver,155,France,Purple,71,New Mexico,-2
+2003,7/4/2025,Bronze,140,Rome,Purple,70,Maryland,2
+2004,7/4/2025,Bronze,141,Venice,Yellow,128,Tennessee,38
+2005,7/4/2025,Platinum,150,Shanghai,Purple,66,Alabama,33
+2006,7/4/2025,Silver,161,Norway,Blue,5,Dover,37
+2007,7/4/2025,Silver,159,Italy,Crimson,15,Albany,36
+2008,7/4/2025,Orange,57,Denver,Silver,157,Iceland,25
+2009,7/4/2025,Gold,33,El Paso,Platinum,142,Bangkok,38
+2010,7/4/2025,White,112,South Carolina,Silver,154,England,-25
+2011,7/4/2025,White,114,Springfield,Silver,158,Ireland,31
+2012,7/4/2025,White,111,Salem,Bronze,135,London,32
+2013,7/4/2025,Yellow,123,Maine,Platinum,147,Mumbai,33
+2014,7/4/2025,Orange,61,Nevada,Silver,165,Sweden,3
+2015,7/4/2025,Gold,27,Rhode Island,Silver,163,Serbia,15

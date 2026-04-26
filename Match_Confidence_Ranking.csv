@@ -1,0 +1,76 @@
+GameID,Team1,Team2,Team1_WinMargin,Confidence
+2009,El Paso,Bangkok,33,1.0
+2007,Italy,Albany,33,1.0
+2004,Venice,Tennessee,33,1.0
+2001,Manila,Jefferson City,33,1.0
+2000,Barcelona,Hawaii,33,1.0
+1993,Portugal,Paris,-37,1.0
+1996,Osaka,Germany,32,0.999
+1982,Carson City,Ohio,-36,0.999
+1983,California,New York,33,0.999
+1948,New Jersey,Pierre,23,0.999
+1990,Belgrade,Shenzhen,32,0.999
+1998,Madrid,Singapore,-36,0.999
+1999,Milan,Istanbul,33,0.998
+1995,Berlin,Frankfort,30,0.998
+1978,Baton Rouge,Big Sur,-3,0.997
+2005,Shanghai,Alabama,-35,0.997
+1950,Michigan,Natchez,32,0.996
+1971,Georgia,Virginia,24,0.996
+1988,Montana,Oregon,28,0.995
+1966,Madison,Las Vegas,31,0.994
+1959,Colorado,Missouri,-6,0.994
+1997,Hong Kong,Liverpool,32,0.992
+2013,Maine,Mumbai,-36,0.989
+2015,Rhode Island,Serbia,-36,0.989
+1946,Lincoln,Florida,5,0.988
+1963,Hartford,Tampa,20,0.987
+1975,Boise City,Kentucky,-4,0.986
+1992,Prague,Tokyo,-36,0.979
+1972,Key Largo,Pennsylvania,-32,0.979
+2011,Springfield,Ireland,30,0.977
+1991,Beijing,Seoul,-34,0.975
+1947,Columbia,Nashville,8,0.971
+1980,Salt Lake City,Atlanta,-29,0.971
+2002,France,New Mexico,19,0.969
+2010,South Carolina,England,-37,0.969
+1985,Montgomery,Dallas,-16,0.965
+1989,Wyoming,San Jose,11,0.959
+1958,Topeka,Fort Worth,3,0.953
+2014,Nevada,Sweden,-30,0.95
+1944,Montpelier,West Virginia,-11,0.95
+2003,Rome,Maryland,7,0.936
+1981,Utah,Oklahoma,22,0.916
+1951,Seattle,Connecticut,11,0.915
+2006,Norway,Dover,-34,0.899
+1952,San Diego,Providence,-16,0.882
+1969,Massachusetts,Mississippi,30,0.878
+1964,Columbus,Sacramento,-2,0.877
+1942,Helena,Iowa,28,0.877
+1979,Jacksonville,Cape Coral,22,0.862
+1970,San Francisco,Juneau,-4,0.857
+1957,North Carolina,Annapolis,13,0.843
+1994,Florence,Netherlands,-13,0.833
+1953,Delaware,Los Angeles,-12,0.825
+1949,Wilmington,Honolulu,1,0.798
+1961,Boston,Texas,7,0.768
+1956,Nebraska,Philadelphia,-6,0.754
+1986,Kansas,Indiana,-8,0.748
+1954,Olympia,Bismarck,-22,0.719
+1984,Washington,Louisiana,-34,0.715
+1974,Vermont,Augusta,-18,0.714
+1945,Lansing,South Dakota,-30,0.708
+1968,Alaska,Trenton,-3,0.696
+1943,Jackson,Concord,-25,0.69
+2008,Denver,Iceland,-12,0.651
+1967,Santa Fe,Raleigh,12,0.634
+1941,Idaho,Houston,-6,0.613
+1960,Austin,Arizona,-6,0.601
+1962,Chicago,New Hope,5,0.598
+1965,Des Moines,NYC,-9,0.577
+2012,Salem,London,-35,0.553
+1976,Illinois,Phoenix,-21,0.551
+1977,Nantucket,Boise,-13,0.545
+1955,New Hampshire,Charlotte,21,0.541
+1973,Minnesota,Port St. Lucie,16,0.504
+1987,North Dakota,Little Rock,-2,0.501
